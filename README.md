@@ -1,6 +1,6 @@
 ## Sobre
 
-Esse repositório tem como propósito servir de hub para os trabalhos realizado envolvendo programação, durante a minha graduação no curso de Sistemas de Informação, 
+Esse repositório tem o propósito de atua como hub para os trabalhos realizados envolvendo programação, durante a minha graduação no curso de Sistemas de Informação, 
 na [FeMASS](https://macae.rj.gov.br/femass/conteudo/titulo/apresentacao) (Faculdade Professor Miguel Ângelo da Silva Santos).  
 
 A idéia é que o repositório será separado em pastas, referentes a cada matéria, e nelas, as pastas relacionadas aos projetos, ou então apenas os arquivos, nomeados de acordo.
