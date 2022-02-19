@@ -1,7 +1,7 @@
 ## Sobre
 
 Essa pasta contém algorítmos desenvolvidos no ano de 2021, para a disciplina de Cálculo Numérico  
-realizada no curso de Sistemas de Informação, da [FeMASS](https://macae.rj.gov.br/femass/conteudo/titulo/apresentacao) (Faculdade Professor Miguel Ângelo da Silva Santos).  
+realizada no curso de Sistemas de Informação, oferecido pela [FeMASS](https://macae.rj.gov.br/femass/conteudo/titulo/apresentacao) (Faculdade Professor Miguel Ângelo da Silva Santos).  
 
 Foram desenvolvidos algorítmos simples, utilizando C++, para demonstração dos seguintes métodos
 - Método de Gauss-Seidel
