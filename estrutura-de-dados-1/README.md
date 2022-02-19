@@ -22,7 +22,7 @@ https://www.bloodshed.net/
 
 ## Compilando via linha de comando
 
-No `Windows`, você pode utiizar o [MinGW](https://nuwen.net/mingw.html)
+No `Windows`, você pode utiizar o [MinGW](https://nuwen.net/mingw.html) (ou qualquer outro compilador).
 
 (Provavelmente será necessário adicionar a pasta `MinGW\bin` à sua variável de ambiente `%PATH%`,  
 veja [Guia da Oracle Sobre Variávies de Ambiente](https://docs.oracle.com/en/database/oracle/machine-learning/oml4r/1.5.1/oread/creating-and-modifying-environment-variables-on-windows.html)
