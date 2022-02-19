@@ -2,7 +2,7 @@
 
 Essa pasta contém projetos de algorítmos de estrutura de dados.  
 Desenvolvidos no ano de 2021, para a disciplina de Estutura de Dados I.  
-Realizada no curso de Sistemas de Informação, da [FeMASSS](https://macae.rj.gov.br/femass/conteudo/titulo/apresentacao) (Faculdade Professor Miguel Ângelo da Silva Santos).  
+Realizada no curso de Sistemas de Informação, da [FeMASS](https://macae.rj.gov.br/femass/conteudo/titulo/apresentacao) (Faculdade Professor Miguel Ângelo da Silva Santos).  
 
 Foram desenvolvidos algorítmos simples, utilizando C++, para demonstração das seguintes estruturas
 - Pilhas
