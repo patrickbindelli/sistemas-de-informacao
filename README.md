@@ -13,8 +13,9 @@ A idéia é que o repositório será separado em pastas, referentes a cada maté
 
 Aqui está que foi adicionado até o momento
 
-- [Estrutura de Dados I](/estrutura-de-dados-1)
+- [Estruturas de Dados I](/estrutura-de-dados-1)
 - [Cálculo Numérico](/calculo_numerico)
+- [Programação de Computadores III](/prog-comp-iii)
 
 ## Posso utilizar esses códigos?
 
